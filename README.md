@@ -32,3 +32,12 @@ export ali="Aliakbar"
 
 > for having permanent variable you should define your variables
 > in the first runned bashed config file like `.bashrc` or `.zshrc`!
+
+- math operations
+
+```sh
+$(( 22 / 4 ))
+$(( 2 * 4 ))
+$(( 2 + 2 ))
+$(( $RANDOM % 2 ))
+```
