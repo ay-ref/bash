@@ -29,3 +29,6 @@ SO IF YOU WANT TO DO THAT USE FROM `export`**
 ali="Aliakbar"
 export ali="Aliakbar"
 ```
+
+> for having permanent variable you should define your variables
+> in the first runned bashed config file like `.bashrc` or `.zshrc`!
