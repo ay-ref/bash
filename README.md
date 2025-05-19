@@ -41,3 +41,5 @@ $(( 2 * 4 ))
 $(( 2 + 2 ))
 $(( $RANDOM % 2 ))
 ```
+
+> IN SINGLE QUOTES ('...') , BASH DOES NOT EXPAND VARIABLES .
